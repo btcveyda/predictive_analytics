@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+backend/app/data/*.csv
+.env
+venv/
+__init__.py
